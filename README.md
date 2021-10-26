@@ -1,4 +1,4 @@
 # typescript-crawler
-## 爬取html 内容并生成json文件
+## Crawl the HTML content and generate a JSON file
 
 ### npm run dev
